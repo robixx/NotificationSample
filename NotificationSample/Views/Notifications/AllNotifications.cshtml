@@ -1,0 +1,50 @@
+﻿@{
+    ViewData["Title"] = "AllNotifications";
+}
+
+
+<div class="row">
+    <table id="tblNotification" class="table table-striped table table-responsive">
+        <thead>
+            <tr>
+                <th>From</th>
+                <th>Title</th>
+                <th>Details</th>
+                <th>IsRead</th>
+                <th>Notification Date</th>
+            </tr>
+        </thead>
+        <tbody>
+        </tbody>
+
+    </table>
+</div>
+
+<script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+<script type="text/javascript">
+    
+    $.ajax({
+        url:'/Notifications/GetNotifications',
+        type: 'GET',
+        dataType: 'json',
+        traditional: true,
+        success: function (data) {
+            
+            var notifications = data;
+            $('#tblNotification tbody').empty();
+            $.map(notifications, function (notification) {
+                $('#tblNotification tbody').append("<tr>" +
+                    "<td>" + notification.fromUserName + "</td>" +
+                    "<td>" + notification.notiHeader + "</td>" +
+                    "<td>" + notification.notiBody + "</td>" +
+                    "<td>" + notification.isReadSt + "</td>" +
+                    "<td>" + notification.createdDateSt + "</td>" +
+                    "</tr>");
+            });
+
+        },
+        error: function (xhr, status, error) {
+            console.error('Error fetching notifications:', error);
+        }
+    });
+</script>

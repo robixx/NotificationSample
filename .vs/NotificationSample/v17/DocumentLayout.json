@@ -1,0 +1,172 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "F:\\ITC\\NotificationSample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\data\\databaseconnection.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\views\\notifications\\allnotifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\views\\notifications\\allnotifications.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\wwwroot\\notification\\ikr.notificationplugin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\wwwroot\\notification\\ikr.notificationplugin.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\controllers\\notificationscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\models\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\models\\noti.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|f:\\itc\\notificationsample\\notificationsample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{30C016CD-77DE-4530-8852-24632BEC5FEF}|NotificationSample\\NotificationSample.csproj|solutionrelative:notificationsample\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DataBaseConnection.cs",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Data\\DataBaseConnection.cs",
+              "RelativeDocumentMoniker": "NotificationSample\\Data\\DataBaseConnection.cs",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Data\\DataBaseConnection.cs",
+              "RelativeToolTip": "NotificationSample\\Data\\DataBaseConnection.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-13T17:22:34.177Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AllNotifications.cshtml",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Views\\Notifications\\AllNotifications.cshtml",
+              "RelativeDocumentMoniker": "NotificationSample\\Views\\Notifications\\AllNotifications.cshtml",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Views\\Notifications\\AllNotifications.cshtml",
+              "RelativeToolTip": "NotificationSample\\Views\\Notifications\\AllNotifications.cshtml",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACwAAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:39:48.205Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "NotificationSample\\Views\\Home\\Index.cshtml",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "NotificationSample\\Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T18:15:42.65Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ikr.notificationPlugin.js",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\wwwroot\\notification\\ikr.notificationPlugin.js",
+              "RelativeDocumentMoniker": "NotificationSample\\wwwroot\\notification\\ikr.notificationPlugin.js",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\wwwroot\\notification\\ikr.notificationPlugin.js",
+              "RelativeToolTip": "NotificationSample\\wwwroot\\notification\\ikr.notificationPlugin.js",
+              "ViewState": "AQIAAF8AAAAAAAAAAAAawGgAAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-11T18:10:34.492Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "NotificationsController.cs",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Controllers\\NotificationsController.cs",
+              "RelativeDocumentMoniker": "NotificationSample\\Controllers\\NotificationsController.cs",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Controllers\\NotificationsController.cs",
+              "RelativeToolTip": "NotificationSample\\Controllers\\NotificationsController.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAA8AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:45:53.684Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Program.cs",
+              "RelativeDocumentMoniker": "NotificationSample\\Program.cs",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Program.cs",
+              "RelativeToolTip": "NotificationSample\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAArAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:29:38.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Noti.cs",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Models\\Noti.cs",
+              "RelativeDocumentMoniker": "NotificationSample\\Models\\Noti.cs",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Models\\Noti.cs",
+              "RelativeToolTip": "NotificationSample\\Models\\Noti.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAA7wA0AAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T17:11:19.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "NotificationSample\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "NotificationSample\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAC8AAAAAAAAAAADwvzEAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-11T16:58:36.269Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "F:\\ITC\\NotificationSample\\NotificationSample\\appsettings.json",
+              "RelativeDocumentMoniker": "NotificationSample\\appsettings.json",
+              "ToolTip": "F:\\ITC\\NotificationSample\\NotificationSample\\appsettings.json",
+              "RelativeToolTip": "NotificationSample\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T16:50:38.974Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
